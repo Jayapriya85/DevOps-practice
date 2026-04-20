@@ -1,0 +1,7 @@
+uname
+whoami
+pwd
+date
+time
+clear
+history
